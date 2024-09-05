@@ -1,4 +1,5 @@
 //import from library file
+//note the Rng is not as per book
 use rand::thread_rng;
 use rand::Rng;
 use std::cmp::Ordering;
